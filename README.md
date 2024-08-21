@@ -20,7 +20,7 @@ Vinyl Cut Vorlagen
 Schneidplotter Roland CAMM-1 GS-24
 
 ## Cutting Software:
-Easy Cut Studio 6
+Easy Cut Studio 5
 
 ## Beispiele:
 
