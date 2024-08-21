@@ -22,6 +22,17 @@ Schneidplotter Roland CAMM-1 GS-24
 ## Cutting Software:
 Easy Cut Studio 6
 
+
+![Bild](pic/geko.png)
+
+![Bild](pic/wolf.png)
+
+![Bild](pic/jos.png)
+
+![Bild](pic/stef.png)
+
+
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
