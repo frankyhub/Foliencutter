@@ -19,6 +19,9 @@ Vinyl Cut Vorlagen
 ## Foliencutter:
 Schneidplotter Roland CAMM-1 GS-24
 
+## Schwenkpresse
+Helo 24 Transferpresse 07036 1800W
+
 ## Cutting Software:
 Easy Cut Studio 5
 
